@@ -16,3 +16,9 @@ This module is developed for creating VPC module. project Roboshop follows this 
 
 ## Outputs
 - vpc_id - Exports VPC ID created
+
+- public_subnet_ids - Exports public subnet ids created
+
+- private_subnet_ids - Exports private subnet ids created
+
+- database_subnet_ids - Exports database subnet ids created
